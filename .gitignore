@@ -1,0 +1,6 @@
+/.idea
+*.iml
+**/*.iml
+**/target
+application-*.properties
+.run
